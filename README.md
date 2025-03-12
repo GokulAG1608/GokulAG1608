@@ -21,7 +21,7 @@
 - ✅ **Python, SQL** (MySQL, MongoDB)  
 - ✅ **Data Structures & Algorithms**  
 - ✅ **DataBricks**
-- 
+
 ### 🔹 **Machine Learning & AI**
 - 🔥 **Supervised & Unsupervised Learning** (Regression, Classification, Clustering)  
 - 🔥 **Deep Learning & Neural Networks** (TensorFlow, PyTorch)  
