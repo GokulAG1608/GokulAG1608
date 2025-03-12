@@ -48,7 +48,7 @@
 
 ### 📫 **Let's Connect!**
 📧 Email: **aggokul2000@gmail.com**  
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile/)   
+💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/gokul-a-g-11195a171/)   
 💡 _"Turning data into actionable insights with AI & ML."_  
 
 ---
