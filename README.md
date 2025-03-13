@@ -44,55 +44,11 @@
 
 ---
 
-## 🚀 **Highlighted Projects**
-Here are some of the exciting projects I've worked on:  
-
-### 📌 **1. [MediMatch-AI_DataBricks](https://github.com/GokulAG1608/MediMatch-AI_DataBricks)**  
-> **🔹 Description:** An **LLM-based medical document analysis** tool using **Databricks & AI** for extracting relevant insights from healthcare documents.  
-> **🔹 Tech Used:** LangChain, PySpark, Delta Lake, Databricks  
-
----
-
-### 📌 **2. [DataGenie](https://github.com/GokulAG1608/data-genie)**  
-> **🔹 Description:** An **AI chatbot** that retrieves information from **SQL, PDF, CSV, and JIRA pages** like ChatGPT.  
-> **🔹 Tech Used:** Flask, LangChain, Gemini, GPT-4, Plotly  
-
----
-
-### 📌 **3. [Predictive Maintenance](https://github.com/GokulAG1608/predictive-maintenance)**  
-> **🔹 Description:** A **ML model to predict equipment failure** using **historical sensor data** for predictive maintenance.  
-> **🔹 Tech Used:** Python, Scikit-learn, XGBoost, Matplotlib  
-
----
-
-### 📌 **4. [ETL Pipeline with PySpark](https://github.com/GokulAG1608/etl-pyspark)**  
-> **🔹 Description:** A **scalable ETL solution** using **PySpark & Delta Lake** for **processing large datasets efficiently**.  
-> **🔹 Tech Used:** PySpark, Delta Lake, Databricks, AWS S3  
-
----
-
 ## 📈 **GitHub Stats & Contributions**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GokulAG1608&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GokulAG1608&theme=radical" alt="GitHub Streak" />
 </p>
-
----
-
-## 🌱 **Currently Learning**
-- 🔥 **Advanced Prompt Engineering & LLM Fine-Tuning**  
-- 📊 **Optimizing Delta Lake for Large-Scale Data Processing**  
-- 🤖 **Building AI Agents & Autonomous Workflows with LangChain**  
-- 🚀 **ETL Best Practices & Snowflake Optimization**  
-
----  
-
----
-
-## 🏆 **Open Source Contributions**
-- 🔹 **Contributed to OpenAI API projects**  
-- 🔹 **Developed NLP-based text extraction tools**  
-- 🔹 **Built open-source Flask & Streamlit applications**  
 
 ---
 
@@ -104,9 +60,3 @@ Here are some of the exciting projects I've worked on:
 💡 _"Turning data into actionable insights with AI & ML."_  
 
 ---
-
-## 🎯 **Fun Facts**
-- 🚀 I love working on **cutting-edge AI & Data Science problems**  
-- 🤖 Always experimenting with **AI Agents & LLM-based automation**  
-- 🏆 Aiming to contribute **more open-source projects & AI research**  
-
