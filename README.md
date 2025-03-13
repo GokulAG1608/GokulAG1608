@@ -47,7 +47,6 @@
 ## 📈 **GitHub Stats & Contributions**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GokulAG1608&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GokulAG1608&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
