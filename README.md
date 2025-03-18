@@ -43,13 +43,6 @@
 
 ---
 
-## 📈 **GitHub Stats & Contributions**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GokulAG1608&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ## 📫 **Let's Connect!**
 📧 **Email:** aggokul2000@gmail.com  
 💼 **LinkedIn:** (https://www.linkedin.com/in/gokul-a-g-11195a171/) 
