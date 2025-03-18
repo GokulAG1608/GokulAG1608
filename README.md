@@ -18,8 +18,7 @@
 
 ## 🛠️ **Technical Skills**
 ### 🔹 **Programming & Development**
-- ✅ **Python, SQL** (MySQL, MongoDB)  
-- ✅ **Data Structures & Algorithms**  
+- ✅ **Python, SQL** (MySQL, MongoDB)   
 - ✅ **DataBricks**
 
 ### 🔹 **Machine Learning & AI**
