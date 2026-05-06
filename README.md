@@ -9,7 +9,7 @@
 ## 🔍 **About Me**
 - 🎓 **M.Sc in Computer Science** with a passion for **Data Science & AI**  
 - 💼 **Gen AI Developer & Data Scientist**  
-- 🏆 **1+ Years of experience** in **Machine Learning, NLP, and Data Engineering**  
+- 🏆 **2+ Years of experience** in **Machine Learning, NLP, and Data Engineering**  
 - 🧠 Enthusiastic about **Predictive Maintenance, LLM-based solutions, and AI-driven automation**  
 - 🎯 **Currently Exploring:** Advanced **AI Agents, LangChain and Databricks**  
 - 🎯 **Career Goal:** To **leverage AI & ML to solve real-world business problems** and contribute to the **open-source AI ecosystem**  
